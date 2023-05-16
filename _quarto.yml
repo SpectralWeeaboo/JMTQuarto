@@ -1,8 +1,5 @@
 project:
   type: website
-  render: 
-    - "*.qmd"
-    - "!files/"
   output-dir: docs
 
 
@@ -14,7 +11,7 @@ website:
       - href: https://github.com/SpectralWeeaboo/SpectralWeeaboo.github.io
         text: Home
       - about.qmd
-      - Resume.qmd
+      - resume.qmd
 
 format:
   html:
