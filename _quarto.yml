@@ -4,17 +4,13 @@ project:
     - "*.qmd"
     - "!files/"
   output-dir: docs
-  resources: 
-    - "files/" 
-    - "photos/"
-    - "resources/"
+
 
 website:
-  title: "SpectralWeeaboo.github.io"
-  site-url: www.JMT.info
+  title: "Juan Manuel Torres"
+  site-url: www.JuanMT.info
   navbar:
     left:
-    
       - href: https://github.com/SpectralWeeaboo/SpectralWeeaboo.github.io
         text: Home
       - about.qmd
