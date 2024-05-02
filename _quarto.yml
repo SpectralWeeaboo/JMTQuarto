@@ -1,8 +1,17 @@
 project:
   type: website
+  render: 
+    - "*.qmd"
+    - "!files/"
   output-dir: docs
+  resources: 
+    - "files/" 
+    - "photos/"
+    - "resources/"
+    - "cv/"
+    - "p/"
 website:
-  title: "SpectralWeeaboo.github.io"
+  title: "JMT"
   navbar:
     left:
       - href: index.qmd
