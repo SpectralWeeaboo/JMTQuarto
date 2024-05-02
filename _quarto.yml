@@ -12,6 +12,7 @@ project:
     - "p/"
 website:
   title: "JMT"
+  site-url: SpectralWeeaboo.github.io
   navbar:
     left:
       - href: index.qmd
