@@ -1,29 +1,24 @@
 project:
   type: website
-  render: 
-    - "*.qmd"
-    - "!files/"
   output-dir: docs
-  resources: 
-    - "files/" 
-    - "photos/"
-    - "resources/"
-    - "cv/"
-    - "p/"
+
 website:
   title: "JMT"
+  sidebar: false
+  search: false
   site-url: SpectralWeeaboo.github.io
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
 
 format:
   html:
+    page-layout: full
     theme: cosmo
     css: styles.css
     toc: true
 
 
-
+editor: source
