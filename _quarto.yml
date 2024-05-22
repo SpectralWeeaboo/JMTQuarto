@@ -34,7 +34,7 @@ website:
 format:
   html:
     page-layout: full
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: false
 
