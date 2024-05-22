@@ -6,7 +6,7 @@ website:
   title: "JMT"
   sidebar: false
   search: false
-  site-url: JMTO.info
+  site-url: spectralweeaboo.github.io/JMTQuarto
   navbar:
     right:
     
@@ -36,7 +36,7 @@ format:
     page-layout: full
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 editor: source
