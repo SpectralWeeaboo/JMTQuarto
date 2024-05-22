@@ -3,5 +3,3 @@ title: "Title Goes Here"
 ---
 
 This is a hopefully working Quarto website.
-
-
