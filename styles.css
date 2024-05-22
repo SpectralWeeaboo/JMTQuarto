@@ -1,1 +1,23 @@
 /* css styles */
+
+/* The color of the navigation bar at the top of the page*/
+.navbar{
+  color: #5a4fb6;
+  background-color: #5a4fb6;
+}
+
+/*The color for the main background of the page*/
+body{
+  background-color: #000000;
+}
+
+/*The color of text on the navbar*/
+.menu-text{
+  color: white;
+}
+
+/*The color of the current title displayed on the navbar*/
+.navbar-title{
+  color: white;
+}
+

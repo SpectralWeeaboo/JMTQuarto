@@ -6,12 +6,30 @@ website:
   title: "JMT"
   sidebar: false
   search: false
-  site-url: SpectralWeeaboo.github.io
+  site-url: JMTO.info
   navbar:
     right:
+    
       - href: index.qmd
         text: Home
-      - about.qmd
+        
+      - href: about.qmd
+        text: About
+      
+      - href: CV.qmd
+        text: CV
+        
+      - href: projects.qmd
+        text: Projects
+      
+      - icon: Github
+        text: Github
+        href: https://github.com/SpectralWeeaboo/JMTQuarto
+        
+      - icon: LinkedIn
+        text: LinkedIn
+        href: https://www.linkedin.com/in/juan-torres-80a543297/
+      
 
 format:
   html:

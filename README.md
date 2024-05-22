@@ -1,1 +1,1 @@
-Text
+This is the github repository for my personal website which I will use as a portfolio.
