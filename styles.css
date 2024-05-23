@@ -11,7 +11,7 @@ body{
   background-color: #000000;
 }
 
-/*The color of text on the navbar*/
+/*The color of text on the menu*/
 .menu-text{
   color: white;
 }
@@ -21,3 +21,12 @@ body{
   color: white;
 }
 
+/* Changes Github logo to white in the navbar*/
+.bi.bi-github{
+  color: white;
+}
+
+/* Changes LinkedIn logo to white in the navbar*/
+.bi.bi-linkedin{
+  color: white;
+}

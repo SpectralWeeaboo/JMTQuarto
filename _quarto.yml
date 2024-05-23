@@ -22,12 +22,10 @@ website:
       - href: projects.qmd
         text: Projects
       
-      - icon: Github
-        text: Github
+      - icon: github
         href: https://github.com/SpectralWeeaboo/JMTQuarto
         
-      - icon: LinkedIn
-        text: LinkedIn
+      - icon: linkedin
         href: https://www.linkedin.com/in/juan-torres-80a543297/
       
 
